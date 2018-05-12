@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7802
     wikipedia: http://en.wikipedia.org/wiki/Grace_Miller_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28462#Rose-O-Paradise
 gutenberg_issued: '2009-03-31'
 gutenberg_type: Text
 identifiers:
